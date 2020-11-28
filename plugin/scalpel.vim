@@ -195,7 +195,7 @@
 "
 " ```
 " docvim README.md doc/scalpel.txt
-" ```
+" ```dd
 "
 " - Verify clean work tree:
 "
